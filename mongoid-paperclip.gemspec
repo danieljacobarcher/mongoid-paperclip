@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |gem|
 
-  gem.name        = 'mongoid-paperclip-google'
+  gem.name        = 'mongoid-paperclip'
   gem.version     = '0.0.7'
   gem.platform    = Gem::Platform::RUBY
   gem.authors     = 'Daniel Jacob Archer & Michael van Rooijen'
